@@ -1,1 +1,42 @@
+#print(3+4)
+#print(4//3)
+#S = 3 + 4
+#memory_id = id(S)
+#print( S , memory_id)
+#s = 5
+#print(S)
+#type(3)
+#print(type(3))
+#print(type(3.4))
+#print(type("Молодец))
+#a = "molodec"
+#print(type(a))
+#a = ["molodec",1, "круто" , 6,8]
+#print(type(True))
+#print(type(False))
+#a = input
+#print(a)
+#a = input('Введите значение a:')
+#print(a)
+#print(type(a))
+#a = int(input('Введите значение a:'))
+#print(a)
+#pri""'"
+"""
+a = [8, 10, 3]
+print(a[0])
+b = [1, 2, 7]
+c = a + b 
+print(c)
+print(c*2)
+c.append('good')
+print(c)
+"""
+#print('Hello World')
+#print('Маша + Петя = Любовь')
+#print(3+4)\
+x = ('Привет мир')
+print(type(x))
+
+
 
